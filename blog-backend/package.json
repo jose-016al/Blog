@@ -1,5 +1,5 @@
 {
-  "name": "api-rest-node",
+  "name": "blog-backend",
   "version": "1.0.0",
   "description": "API Rest con NodeJS",
   "main": "index.js",
